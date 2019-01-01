@@ -8,5 +8,3 @@ Sample Data has been provided to skip some of the more computationally taxing fu
 An older version of this project won third place at the AGI Educational Alliance Program Competition
 
 Link: http://www.agi.com/news/blog/january-2018/eapfall-2017-university-grant-competition-winners!
-
-Adam
